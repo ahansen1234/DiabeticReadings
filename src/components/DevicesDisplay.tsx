@@ -53,7 +53,7 @@ export const DevicesDisplay = () => {
               alt="MiniMed Blood Glucose Meter"
             />
           </h1>
-          Continuous Glucose Monitors are a new and emerginf technology which is
+          Continuous Glucose Monitors are a new and emerging technology which is
           comprised of a sensor, also worn on the body, which constantly
           measures blood glucose levels through a canula inserted under the
           skin. Continuous Glucose Monitors (CGMs) send these readings to the
