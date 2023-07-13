@@ -29,10 +29,11 @@ export const TestChart = (props: ITestProps) => {
               display: false,
             },
           },
+          borderColor: "#3751a5",
           scales: {
             y: {
               min: 4,
-              max: 13,
+              max: 18,
             },
           },
         }}

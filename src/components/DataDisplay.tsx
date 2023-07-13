@@ -16,7 +16,7 @@ export const DataDislay = () => {
       labels: bsData.map((data) => data.date),
       datasets: [
         {
-          label: "Average Days Sugar: ",
+          label: "Average Days Sugar",
           data: bsData.map((data) => data.value),
         },
       ],
@@ -29,7 +29,7 @@ export const DataDislay = () => {
       labels: bolusData.map((data) => data.date),
       datasets: [
         {
-          label: "Days Total Insulin Intake: ",
+          label: "Days Total Insulin Intake",
           data: bolusData.map((data) => data.value),
         },
       ],
@@ -42,7 +42,7 @@ export const DataDislay = () => {
       labels: testData.map((data) => data.date),
       datasets: [
         {
-          label: "Number of Blood Sugar Tests: ",
+          label: "Number of Blood Sugar Tests",
           data: testData.map((data) => data.value),
         },
       ],
@@ -55,15 +55,15 @@ export const DataDislay = () => {
       labels: bsData.map((data) => data.date),
       datasets: [
         {
-          label: "Average Days Sugar: ",
+          label: "Average Days Sugar",
           data: bsData.map((data) => data.value),
         },
         {
-          label: "Days Total Insulin Intake: ",
+          label: "Days Total Insulin Intake",
           data: bolusData.map((data) => data.value),
         },
       ],
-      title: "Avg Days Sugar and Insulin Intake",
+      title: "Average Days Sugar and Insulin Intake",
     }),
     []
   );
@@ -72,15 +72,15 @@ export const DataDislay = () => {
       labels: bsData.map((data) => data.date),
       datasets: [
         {
-          label: "Average Days Sugar: ",
+          label: "Average Days Sugar",
           data: bsData.map((data) => data.value),
         },
         {
-          label: "Days Total Blood Tests: ",
+          label: "Days Total Blood Tests",
           data: testData.map((data) => data.value),
         },
       ],
-      title: "Avg Days Sugar and Number of Blood Tests",
+      title: "Average Days Sugar and Number of Blood Tests",
     }),
     []
   );

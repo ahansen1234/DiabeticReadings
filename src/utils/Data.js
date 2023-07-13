@@ -349,7 +349,7 @@ export const testData = [
     },
     {
         date: "6/4",
-        value: 7
+        value: 13
     },
     {
         date: "6/5",
@@ -373,7 +373,7 @@ export const testData = [
     },
     {
         date: "6/10",
-        value: 6
+        value: 16
     },
     {
         date: "6/11",
@@ -393,7 +393,7 @@ export const testData = [
     },
     {
         date: "6/15",
-        value: 8
+        value: 12
     },
     {
         date: "6/16",
@@ -409,7 +409,7 @@ export const testData = [
     },
     {
         date: "6/19",
-        value: 6
+        value: 14
     },
     {
         date: "6/20",
@@ -437,7 +437,7 @@ export const testData = [
     },
     {
         date: "6/26",
-        value: 6
+        value: 15
     },
     {
         date: "6/27",

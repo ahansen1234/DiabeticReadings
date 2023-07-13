@@ -29,6 +29,7 @@ export const SugarChart = (props: ISugarProps) => {
               display: false,
             },
           },
+          borderColor: "#3751a5",
         }}
       />
     </div>

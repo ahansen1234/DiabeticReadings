@@ -22,7 +22,7 @@ export const DevicesDisplay = () => {
           administer insulin whenever needed. The pump actually administers a
           small amount of insulin continuously throughout the day to keep blood
           glucose levels in range. It also allows for the user to enter current
-          blood glucose levels and total carbohydrtes being ingested to
+          blood glucose levels and total carbohydrates being ingested to
           calculate the necessary levels of insulin, which are then injected.
         </div>
         <div className="float-child">

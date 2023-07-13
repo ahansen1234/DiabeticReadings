@@ -26,10 +26,12 @@ export const SugarBolusChart = (props: ISugarBolusProps) => {
               display: false,
               text: "Average Sugar Reading",
             },
+
             legend: {
               display: true,
             },
           },
+          //   borderColor: "#3751a5",
         }}
       />
     </div>

@@ -29,6 +29,7 @@ export const BolusChart = (props: IBolusProps) => {
               display: false,
             },
           },
+          borderColor: "#3751a5",
         }}
       />
     </div>
